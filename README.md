@@ -1,0 +1,2 @@
+# -Power-BI-Assignment-1---Data-Transformation-Data-Modeling-Data-Transformation
+Restrict the "List of Orders" table to only the first 500 rows. ● Ensure the “Order Date” column in the “List of Orders” table is set to data type 'Date'Merging Data (Joins): ● Merge the "List of Orders" and "Order Details" tables into a new single table named "Orders Data" based on the "Order ID" relationship. Handling Missing Data &amp; Duplicatedata
